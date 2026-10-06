@@ -1,4 +1,4 @@
-                                      COELIAC TRUNK
+                                      *COELIAC TRUNK*
                                             │
              ┌──────────────────────────────┼──────────────────────────────┐
              │                              │                              │
@@ -86,3 +86,19 @@ Splenic artery
              ▼            ▼            ▼
       RIGHT LOBE OF  LEFT LOBE OF     LESSER
           LIVER          LIVER        CURVATURE
+
+
+              GASTRODUODENAL
+                    │
+         ┌──────────┴──────────┐
+         │                     │
+         ▼                     ▼
+ RIGHT GASTRO-OMENTAL      SUPERIOR
+         │              PANCREATICODUODENAL
+         │                     │
+         ▼                     ▼
+      GREATER              PANCREAS +
+     CURVATURE              DUODENUM
+         │
+         ↕
+ LEFT GASTRO-OMENTAL

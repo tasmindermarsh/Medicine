@@ -3,59 +3,59 @@
              ┌──────────────────────────────┼──────────────────────────────┐
              │                              │                              │
              ▼                              ▼                              ▼
-      LEFT GASTRIC                       SPLENIC                    COMMON HEPATIC
-             │                              │                              │
-      ┌──────┴──────┐          ┌────────────┼────────────┐          ┌──────┴──────┐
-      │             │          │            │            │          │             │
-      ▼             ▼          ▼            ▼            ▼          ▼             ▼
- OESOPHAGEAL     GASTRIC     SPLEEN       SHORT       LEFT      PROPER        GASTRODUODENAL
-  BRANCHES       BRANCHES                 GASTRIC    GASTRO-     HEPATIC             │
-      │             │                     ARTERIES   OMENTAL       │                 │
-      │             │                        │          │          │                 │
-      ▼             ▼                        ▼          ▼          │                 ▼
-   LOWER          LESSER                   FUNDUS     GREATER      │              RIGHT GASTRO-
- OESOPHAGUS      CURVATURE                          CURVATURE      │                 OMENTAL
-                                                                   │                     │
-                                                      ┌────────────┼────────────┐        │
-                                                      │            │            │        │
-                                                      ▼            ▼            ▼        ▼
-                                                    RIGHT        LEFT         RIGHT    GREATER
-                                                   HEPATIC      HEPATIC      GASTRIC   CURVATURE
-                                                      │            │            │
-                                                      ▼            ▼            ▼
-                                                  RIGHT LOBE    LEFT LOBE      LESSER
-                                                   OF LIVER      OF LIVER     CURVATURE
+      LEFT GASTRIC                       SPLENIC                      COMMON HEPATIC
+             │                              │                                │
+      ┌──────┴──────┐          ┌────────────┼────────────┐            ┌──────┴──────┐
+      │             │          │            │            │            │             │
+      ▼             ▼          ▼            ▼            ▼            ▼             ▼
+ OESOPHAGEAL     GASTRIC     SPLEEN       SHORT       LEFT          PROPER         GASTRODUODENAL
+  BRANCHES       BRANCHES                 GASTRIC    GASTRO-       HEPATIC                 │
+      │             │                     ARTERIES   OMENTAL         │                     │
+      │             │                        │          │            │                     │
+      ▼             ▼                        ▼          ▼            │                     ▼
+   LOWER          LESSER                   FUNDUS     GREATER        │                    RIGHT GASTRO-
+ OESOPHAGUS      CURVATURE                          CURVATURE        │                     OMENTAL
+                                                                     │                       │
+                                                        ┌────────────┼────────────┐          │
+                                                        │            │            │          │
+                                                        ▼            ▼            ▼          ▼
+                                                      RIGHT        LEFT         RIGHT      GREATER
+                                                     HEPATIC      HEPATIC      GASTRIC     CURVATURE
+                                                        │            │            │
+                                                        ▼            ▼            ▼
+                                                    RIGHT LOBE    LEFT LOBE      LESSER
+                                                     OF LIVER      OF LIVER     CURVATURE
 
 
 ANASTOMOSES
 
-LESSER CURVATURE
-Left gastric  ←──────────────→  Right gastric
-              ANASTOMOSE
-
-
-GREATER CURVATURE
-Left gastro-omental  ←───────→  Right gastro-omental
-                    ANASTOMOSE
-
-
-
-                   LEFT GASTRIC
-                        │
-             ┌──────────┴──────────┐
-             │                     │
-             ▼                     ▼
-      OESOPHAGEAL              GASTRIC
-        BRANCHES               BRANCHES
-             │                     │
-             ▼                     ▼
-         LOWER                 LESSER
-       OESOPHAGUS             CURVATURE
+                LESSER CURVATURE
+                Left gastric  ←──────────────→  Right gastric
+                              ANASTOMOSE
+                
+                
+                GREATER CURVATURE
+                Left gastro-omental  ←───────→  Right gastro-omental
+                                    ANASTOMOSE
 
 
 
+from coeliac trunk
+                      LEFT GASTRIC
+                            │
+                 ┌──────────┴──────────┐
+                 │                     │
+                 ▼                     ▼
+          OESOPHAGEAL              GASTRIC
+            BRANCHES               BRANCHES
+                 │                     │
+                 ▼                     ▼
+             LOWER                 LESSER
+           OESOPHAGUS             CURVATURE
 
-                         SPLENIC ARTERY
+
+from coeliac trunk       
+                            SPLENIC ARTERY
                                │
               ┌────────────────┼────────────────┐
               │                │                │
@@ -66,39 +66,25 @@ Left gastro-omental  ←───────→  Right gastro-omental
                                ▼                ▼
                             FUNDUS       GREATER CURVATURE
 
-Splenic artery
-      │
-      ├──→ Spleen
-      │
-      ├──→ Short gastric arteries ──→ Fundus
-      │
-      └──→ Left gastro-omental ─────→ Greater curvature
 
+from coeliac trunk
+                           COMMON HEPATIC
+                               │
+                  ┌────────────┴────────────┐
+                  │                         │
+                  ▼                         ▼
+           PROPER HEPATIC               GASTRODUODENAL
+                  │                             │
+       ┌──────────┼──────────┐             ┌────┴──────────────┐
+       │          │          │             │                   │
+       ▼          ▼          ▼             ▼                   ▼
+     RIGHT       LEFT      RIGHT         RIGHT              SUPERIOR
+    HEPATIC     HEPATIC   GASTRIC      GASTRO-OMENTAL   PANCREATICODUODENAL
+       │          │          │             │                   │
+       ▼          ▼          ▼             ▼                   ▼
+ RIGHT LOBE   LEFT LOBE    LESSER        GREATER           PANCREAS +
+ OF LIVER     OF LIVER    CURVATURE     CURVATURE           DUODENUM
+                                             │
+                                             ↕
+                                     LEFT GASTRO-OMENTAL
 
-
-                    PROPER HEPATIC
-                          │
-             ┌────────────┼────────────┐
-             │            │            │
-             ▼            ▼            ▼
-       RIGHT HEPATIC  LEFT HEPATIC  RIGHT GASTRIC
-             │            │            │
-             ▼            ▼            ▼
-      RIGHT LOBE OF  LEFT LOBE OF     LESSER
-          LIVER          LIVER        CURVATURE
-
-
-              GASTRODUODENAL
-                    │
-         ┌──────────┴──────────┐
-         │                     │
-         ▼                     ▼
- RIGHT GASTRO-OMENTAL      SUPERIOR
-         │              PANCREATICODUODENAL
-         │                     │
-         ▼                     ▼
-      GREATER              PANCREAS +
-     CURVATURE              DUODENUM
-         │
-         ↕
- LEFT GASTRO-OMENTAL
